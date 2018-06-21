@@ -1,2 +1,0 @@
-C:\Users\francisco.bahamondes\source\repos\MonoGame\FarseerPhysics\SourceFiles\obj\x86\Debug\Farseer Physics MonoGame.csprojAssemblyReference.cache
-C:\Users\francisco.bahamondes\source\repos\MonoGame\FarseerPhysics\SourceFiles\obj\x86\Debug\Farseer Physics MonoGame.csproj.CoreCompileInputs.cache
